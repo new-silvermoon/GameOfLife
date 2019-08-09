@@ -4,7 +4,7 @@
  
  This is a Python based repo which simulates the rules of Game of Life.
  
- To see it in action, execute simulate.py 
+ To see it in action, execute simulation.py 
  
  
 
